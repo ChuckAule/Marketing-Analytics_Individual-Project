@@ -1,0 +1,7 @@
+setup.py
+MySNA/MySNA.py
+MySNA/__init__.py
+MySNA.egg-info/PKG-INFO
+MySNA.egg-info/SOURCES.txt
+MySNA.egg-info/dependency_links.txt
+MySNA.egg-info/top_level.txt
